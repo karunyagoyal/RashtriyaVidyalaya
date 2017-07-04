@@ -10,6 +10,8 @@ public class Application {
     public static void main(String args[])throws IOException{
 
         System.out.println("Welcoming to Rashtriya Vidyalaya");
+        System.out.println(" Future of Education ");
+
 
         welcomeNote();
         classes std = new classes();
